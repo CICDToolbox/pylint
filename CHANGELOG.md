@@ -7,7 +7,11 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/CICDToolbox/pylint/commits/master)
 
-- Make test for existing command pyenv friendly [`[head]`](https://github.com/CICDToolbox/pylint/commit/)
+- Remove false positives [`[head]`](https://github.com/CICDToolbox/pylint/commit/)
+
+- Merge branch 'master' of github.com:CICDToolbox/pylint [`[d2c296a]`](https://github.com/CICDToolbox/pylint/commit/d2c296aa18a08984e00f29f01da753a12596fd1f)
+
+- Make test for existing command pyenv friendly [`[0768c61]`](https://github.com/CICDToolbox/pylint/commit/0768c615192f5ff5710088a381717dcd644d5bc0)
 
 - Merge branch 'master' of github.com:CICDToolbox/pylint [`[25b5347]`](https://github.com/CICDToolbox/pylint/commit/25b534770e6a461191cd96b91e570df884492bf3)
 
